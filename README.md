@@ -49,4 +49,6 @@ The main goal is to transform raw data into a clean, structured, and analysis-re
   ---
 ## 👩‍💻 About Me 
 
-Hello! I'm **Alejandra Garcia**, I'm a Business Administrator learning and building data projects with SQL and Power BI. 🚀
+Hello! I'm **Alejandra Garcia**, a Business Administrator focused on data analytics, working with SQL and Power BI to build analytical projects. 🚀
+
+
